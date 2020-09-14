@@ -1,7 +1,8 @@
 import java.util.Scanner;
- 
- 
-
+ /**
+ *
+ * @author 
+ */
 public class Main {
 
   /**
